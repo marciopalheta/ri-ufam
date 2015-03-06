@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:processadorconsulta.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:processadorconsulta.h">
+   </FileRef>
+   <FileRef
+      location = "container:base.dat">
+   </FileRef>
+   <FileRef
+      location = "container:base.xml">
+   </FileRef>
+   <FileRef
+      location = "container:core.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:core.h">
+   </FileRef>
+   <FileRef
+      location = "container:documento.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:documento.h">
+   </FileRef>
+   <FileRef
+      location = "container:indexador.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:indexador.h">
+   </FileRef>
+   <FileRef
+      location = "container:parser.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:termo.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:termo.h">
+   </FileRef>
+   <FileRef
+      location = "container:teste.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:teste.h">
+   </FileRef>
+   <FileRef
+      location = "container:vocabulario.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:vocabulario.h">
+   </FileRef>
+</Workspace>

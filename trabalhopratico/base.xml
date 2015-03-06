@@ -1,0 +1,58 @@
+<produtos>
+    <produto>
+        <id>1D</id>
+        <categoria>roupas femininas / vestidos</categoria>
+        <titulo>Vestido Loose Forest Off-white</titulo>
+        <descricao>Vestido Coca-Cola Loose Forest off-white com estampa de pássaros e flores por toda a peça, que agregam um ar artístico e ousado. Modelagem ampla na parte de cima e corte acinturado, apresenta franzidos por toda a peça, que dão impressão de movimento, hit do Inverno 2012. Confeccionada em malha de viscose e lã, possibilita um toque suave na pele. Original, o Vestido Coca-Cola Loose Forest é a melhor pedida se você deseja compor visuais autênticos nessa estação.</descricao>
+        <preco>R$ 297,00</preco>
+        <img>1_Vestido_Loose_Forest_Off_white_1066624.jpg</img>
+    </produto>
+    <produto>
+        <id>2D</id>
+        <categoria>roupas femininas / vestidos</categoria>
+        <titulo>Vestido Decote Costas Preto</titulo>
+        <descricao>Vestido Espaço Fashion Decote Costas em preto, com decote redondo e mangas curtas. Trabalhado em aplicação de renda com fundo em tule de seda com fechamento em zíper invisível traseiro e colchete. Decote nas costas, dando um toque sensual ao vestido. O vestido Espaço Fashion Decote costas é ideal para sair à noite ou para ir a festas. DiscountD</descricao>
+        <preco>R$ 319,90</preco>
+        <img>2_Vestido_Decote_Costas_Preto_118995.jpg</img>
+    </produto>
+    <produto>
+        <id>3D</id>
+        <categoria>roupas femininas / vestidos</categoria>
+        <titulo>Vestido Slim Vintage Cinza</titulo>
+        <descricao>Vestido Coca Cola Slim Vintage na cor cinza com aspecto envelhecido e diferenças de tonalidades. Detalhe de franzido na parte frontal e recortes nas costas. Modelagem com decote amplo e manga curta. O Vestido Coca Cola Vintage é ideal para uso casual.</descricao>
+        <preco>R$ 172,00</preco>
+        <img>3_Vestido_Slim_Vintage_Cinza_1066614.jpg</img>
+    </produto>
+    <produto>
+        <id>4D</id>
+        <categoria>roupas femininas / vestidos</categoria>
+        <titulo>Vestido Metamorfose Branco</titulo>
+        <descricao>Vestido Espaço Fashion Metamorfose branco com estampas de borboleta em preto. Modelagem folgada, alças transpassada e cordão para melhor ajuste ao corpo. O Vestido Espaço Fashion Metamorfose é ideal para o dia a dia e incrementar seus looks.</descricao>
+        <preco>R$ 219,90</preco>
+        <img>4_Vestido_Metamorfose_Branco_118653.jpg</img>
+    </produto>
+    <produto>
+        <id>5D</id>
+        <categoria>roupas femininas / vestidos</categoria>
+        <titulo>Vestido Evasê Estampas Marrom</titulo>
+        <descricao>Vestido Triton Evasê Estampas marrom, com mix de estampas tema de onça e jóias em toda sua extensão. Modelagem evasê com decote redondo e fechamento nas costas por zíper. Confeccionado em cetim, oferece um toque de brilho e movimento à peça. O Vestido Triton Evasê Estampas segue tendência animal print Inverno 2012 e é ideal para looks ousados, deixando um ar de elegância e delicadeza.</descricao>
+        <preco>R$ 449,00</preco>
+        <img>5_Vestido_Evase_Estampas_Marrom_1065244.jpg</img>
+    </produto>
+    <produto>
+        <id>6D</id>
+        <categoria>roupas femininas / vestidos</categoria>
+        <titulo>Vestido Metamorfose Preto</titulo>
+        <descricao>Vestido Espaço Fashion Metamorfose preta com detalhes em branco e estampa de borboletas ao longo do vestido, criando um design mais delicado, além, da saia com duas camadas de babado e alças finas ajustáveis. O Vestido Espaço Fashion Metamorfose é ideal para o dia a dia e incrementar seus looks.</descricao>
+        <preco>R$ 249,90</preco>
+        <img>6_Vestido_Metamorfose_Preto_119095.jpg</img>
+    </produto>
+    <produto>
+        <id>7D</id>
+        <categoria>roupas femininas / vestidos</categoria>
+        <titulo>Vestido Florest Marrom</titulo>
+        <descricao>Vestido Colcci Florest na cor marrom com modelagem ampla e mangas curtas e franzidas. Apresenta estampa de folhagem por toda a peça e detalhe de elástico na cintura para melhor ajuste ao corpo. O Vestido Colcci Florest é ideal para uso casual.</descricao>
+        <preco>R$ 413,00</preco>
+        <img>7_Vestido_Florest_Marrom_1064517.jpg</img>
+    </produto>
+</produtos>

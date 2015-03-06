@@ -1,0 +1,18 @@
+<produtos>
+    <produto>
+        <id> 1D </id>
+        <descricao> x x x b </descricao>
+    </produto>
+    <produto>
+        <id>2D</id>
+        <descricao> x x c </descricao>
+    </produto>
+    <produto>
+        <id>3D</id>
+        <descricao> x x </descricao>
+    </produto>
+    <produto>
+        <id>4D</id>
+        <descricao> b b </descricao>
+    </produto>
+</produtos>
